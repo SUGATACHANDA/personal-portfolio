@@ -11,7 +11,7 @@ const seo = {
   og: {
     title: "Sugata Chanda Portfolio",
     type: "website",
-    // url: "http://sugatachanda.com/",
+    url: "https://sugatachanda.vercel.app/",
   },
 };
 
@@ -27,6 +27,7 @@ const greeting = {
   resumeLink:
     "https://drive.google.com/file/d/1wr8e8kjIWK1dppKbYRXoVRzu2xpF4ixy/view?usp=sharing",
   githubProfile: "https://github.com/SUGATACHANDA",
+  portfolio_repository: "https://github.com/SUGATACHANDA/personal-portfolio",
 };
 
 const socialMediaLinks = [

@@ -286,6 +286,15 @@ const certifications = {
       color_code: "#1F70C199",
     },
     {
+      title: "Cryptography and Network Security",
+      subtitle: " Prof. Sourav Mukhopadhyay - IIT Kharagpur",
+      logo_path: "nptel_logo.png",
+      certificate_link:
+        "https://internalapp.nptel.ac.in/NOC/NOC25/SEM1/Ecertificates/106/noc25-cs16/Course/NPTEL25CS16S54950105504280296.pdf",
+      alt_name: "nptel_logo",
+      color_code: "#0C9D5899",
+    },
+    {
       title: "AWS Academy Cloud Foundations",
       subtitle: "- AWS Academy",
       logo_path: "aws_logo.png",

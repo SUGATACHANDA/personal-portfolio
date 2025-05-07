@@ -25,7 +25,7 @@ const greeting = {
   // resumeLink:
   //   "https://1drv.ms/b/s!Al7_AaoQhRN_nNN5vmtB5SxP-T-ntQ?e=WoRNhN",
   resumeLink:
-    "https://drive.google.com/file/d/1-Coq5APThOpT5P4nTcVzDOg-iXy1HU1x/view?usp=sharing",
+    "https://drive.google.com/file/d/1id8s7pCeVV09OU1t_OaQhCkT_Qc_Bbdb/view?usp=sharing",
   githubProfile: "https://github.com/SUGATACHANDA",
   portfolio_repository: "https://github.com/SUGATACHANDA/personal-portfolio",
 };

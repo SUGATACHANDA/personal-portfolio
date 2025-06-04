@@ -381,7 +381,7 @@ const experience = {
           company: "EazyByts",
           company_url: "https://eazybyts.com/",
           logo_path: "eazybyts_logo.png",
-          duration: "June 2025 - Junly 2022",
+          duration: "June 2025 - July 2025",
           location: "Remote",
           description:
             "As a Web Developer Intern at EazyByts, I'm contributing to the development of scalable, full-stack web applications using technologies like React.js, Node.js, Express.js, and MongoDB. My work involves building responsive UI components, integrating RESTful APIs, and optimizing performance across devices. I collaborate with the team in an agile environment, participate in code reviews, and follow best practices in version control using Git and GitHub. This role is enhancing my practical understanding of modern web development and preparing me for real-world challenges in the tech industry.",

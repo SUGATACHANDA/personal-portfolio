@@ -9,6 +9,7 @@ import Contact from "../pages/contact/ContactComponent";
 import Projects from "../pages/projects/Projects";
 import { settings } from "../portfolio.js";
 import Error404 from "../pages/errors/error404/Error";
+import Experience from "../pages/experience/Experience.js";
 
 export default class Main extends Component {
   render() {
@@ -30,13 +31,13 @@ export default class Main extends Component {
             path="/home"
             render={(props) => <Home {...props} theme={this.props.theme} />}
           />
-          {/* <Route
+          <Route
             path="/experience"
             exact
             render={(props) => (
               <Experience {...props} theme={this.props.theme} />
             )}
-          /> */}
+          />
           <Route
             path="/education"
             render={(props) => (

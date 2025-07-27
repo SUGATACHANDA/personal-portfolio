@@ -1,3 +1,3 @@
 export const siteConfig = {
-    lastUpdated: "June 04, 2025",
+    lastUpdated: "July 27, 2025",
 };

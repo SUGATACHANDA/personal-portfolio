@@ -25,7 +25,7 @@ const greeting = {
   // resumeLink:
   //   "https://1drv.ms/b/s!Al7_AaoQhRN_nNN5vmtB5SxP-T-ntQ?e=WoRNhN",
   resumeLink:
-    "https://drive.google.com/file/d/1id8s7pCeVV09OU1t_OaQhCkT_Qc_Bbdb/view?usp=sharing",
+    "https://drive.google.com/file/d/1W8AAi3UPwt_rF5w4TH3DZEkIbqqiEnV6/view?usp=sharing",
   githubProfile: "https://github.com/SUGATACHANDA",
   portfolio_repository: "https://github.com/SUGATACHANDA/personal-portfolio",
 };
@@ -39,7 +39,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/sugata-chanda-194a95253/",
+    link: "https://www.linkedin.com/in/sugatachanda",
     fontAwesomeIcon: "fa-linkedin-in",
     backgroundColor: "#0077B5",
   },
@@ -379,13 +379,24 @@ const experience = {
         {
           title: "Web Developer Intern",
           company: "EazyByts",
-          company_url: "https://eazybyts.com/",
+          company_url: "https://eazybyts.com",
           logo_path: "eazybyts_logo.png",
           duration: "June 2025 - July 2025",
           location: "Remote",
           description:
             "As a Web Developer Intern at EazyByts, I'm contributing to the development of scalable, full-stack web applications using technologies like React.js, Node.js, Express.js, and MongoDB. My work involves building responsive UI components, integrating RESTful APIs, and optimizing performance across devices. I collaborate with the team in an agile environment, participate in code reviews, and follow best practices in version control using Git and GitHub. This role is enhancing my practical understanding of modern web development and preparing me for real-world challenges in the tech industry.",
           color: "#000000",
+        },
+        {
+          title: "Software Development Engineer Intern",
+          company: "Bluestock Fintech",
+          company_url: "https://bluestock.in",
+          logo_path: "bluestock_logo.jpeg",
+          duration: "June 2025 - Present",
+          location: "Remote",
+          description:
+            "Developed a responsive IPO web application compatible with all devices, enhancing user accessibility. Implemented custom authentication using Google reCAPTCHA, improving security measures for user data. Utilized React and PostgreSQL to create a robust backend, ensuring efficient data management and retrieval. Contributed to Bluestock™, a dynamic startup focused on innovative tech solutions, fostering a collaborative remote work environment.",
+          color: "#4285F4",
         },
       ],
     },
